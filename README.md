@@ -1,6 +1,11 @@
-# UniTabDet
-UniTabBank: A Large Scale Multi-Lingual, Multi-Layout, Multi-Type, Multi-Format Dataset for Table Detection || WACV 2026
+# UniTabBank: A Large Scale Multi-Lingual, Multi-Layout, Multi-Type, Multi-Format Dataset for Table Detection || WACV 2026
 
+# UniTabDet: Table Detection using YOLOv11
+
+UniTabDet is a table detection framework built using **Ultralytics YOLOv11** for detecting tables in documents.  
+The project supports training, fine-tuning, and inference using the **UniTabBank dataset**, a large-scale multilingual dataset for table detection.
+
+---
 
 ## Environment Setup
 
